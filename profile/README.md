@@ -10,6 +10,6 @@ Welcome to WISE Circuits Lab's organization on GitHub.
 
 Our research is focused on innovating energy-efficient application-specific integrated circuits (ICs) and system solutions in diverse fields, including biosensing, information theory, signal processing, and secure wireless communications.
 
-* 👩‍🔬 Read more about our [research](https://sites.bu.edu/wisecircuits/research/)
-* 📸 See our [chip gallery](https://sites.bu.edu/wisecircuits/chip-gallery/)
-* 👫👫 Meet our [team](https://sites.bu.edu/wisecircuits/people/)
+* 👩‍🔬 Read more about our <a href="https://sites.bu.edu/wisecircuits/research/" target="_blank">research</a>
+* 📸 See our <a href="https://sites.bu.edu/wisecircuits/chip-gallery/" target="_blank">chip gallery</a>
+* 👫👫 Meet our <a href="https://sites.bu.edu/wisecircuits/people/" target="_blank">team</a>
